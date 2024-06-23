@@ -1,0 +1,13 @@
+dlib
+ipython
+keras_vggface
+keras_applications
+librosa
+matplotlib
+numpy
+opencv_contrib_python
+pandas
+scikit_learn
+scipy
+seaborn
+tensorflow

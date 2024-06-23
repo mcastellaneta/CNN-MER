@@ -1,0 +1,1 @@
+modello dog_cat con Adam con emozioni strong e lr di default(1e-3)

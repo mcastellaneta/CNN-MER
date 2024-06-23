@@ -1,0 +1,17 @@
+Rete bilotti, emozioni strong, SGD 1e-5
+
+
+Epoch 1/200
+519/519 [==============================] - 137s 238ms/step - loss: 1.9459 - accuracy: 0.1522 - val_loss: 1.9459 - val_accuracy: 0.1753
+Epoch 2/200
+519/519 [==============================] - 117s 226ms/step - loss: 1.9459 - accuracy: 0.1568 - val_loss: 1.9459 - val_accuracy: 0.1753
+Epoch 3/200
+519/519 [==============================] - 126s 242ms/step - loss: 1.9459 - accuracy: 0.1577 - val_loss: 1.9459 - val_accuracy: 0.1753
+Epoch 4/200
+519/519 [==============================] - 118s 228ms/step - loss: 1.9459 - accuracy: 0.1561 - val_loss: 1.9459 - val_accuracy: 0.1753
+Epoch 5/200
+519/519 [==============================] - 126s 243ms/step - loss: 1.9459 - accuracy: 0.1564 - val_loss: 1.9459 - val_accuracy: 0.1753
+Epoch 6/200
+519/519 [==============================] - 118s 227ms/step - loss: 1.9459 - accuracy: 0.1561 - val_loss: 1.9459 - val_accuracy: 0.1753
+Epoch 7/200
+ 20/519 [>.............................] - ETA: 1:41 - loss: 1.9458 - accuracy: 0.1672

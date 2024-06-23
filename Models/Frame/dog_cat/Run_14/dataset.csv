@@ -1,0 +1,12 @@
+emotions_label;['angry', 'calm', 'disgust', 'fearful', 'happy', 'sad', 'surprised']
+sampling_rate;1
+gender_classes;False
+talk_frame;True
+acted_frame;True
+preprocessing;False
+train_indexes;['01', '02', '03', '04', '05', '06', '07', '08', '09', '10', '11', '12', '13', '14', '15', '16']
+train_files;33164
+val_indexes;['17', '18', '19', '20']
+val_files;8860
+test_indexes;['21', '22', '23', '24']
+test_files;8784

@@ -1,0 +1,1 @@
+modello VGGFACE con Adam con emozioni strong e lr (1e-5)

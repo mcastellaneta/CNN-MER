@@ -1,0 +1,1 @@
+Usando Adam con lr 1e-4 non si ottengono buoni risultati, come visibile dalla heatmap. Il batch size è 4 per limite delle risorse computazionali
